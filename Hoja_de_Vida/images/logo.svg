@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_3" d="m570.969971,69.720001l15,-15l0,7.5l22.5,0l0,-22.5l-7.5,0l14.999573,-15.000002l15.000427,15.000002l-7.5,0l0,37.5l-37.5,0l0,7.5l-15,-15z" fill="black" transform="rotate(-90.1486, 600.97, 54.72)"/>
+  <path fill="black" d="m6.96999,422.720001l15.00001,-15l0,7.5l22.500002,0l0,-22.5l-7.5,0l14.999538,-15l15.000462,15l-7.5,0l0,37.5l-37.500002,0l0,7.5l-15.00001,-15z" id="svg_2" transform="rotate(91.0181, 36.97, 407.72)"/>
+  <path fill="black" d="m8.96999,70.720001l15.00001,-15l0,7.5l22.500002,0l0,-22.5l-7.5,0l14.999538,-15.000002l15.000462,15.000002l-7.5,0l0,37.5l-37.500002,0l0,7.5l-15.00001,-15z" id="svg_112" transform="rotate(-179.262, 38.97, 55.72)"/>
+  <text transform="matrix(11.5871, 0, 0, 14.6273, -208.007, -417.541)" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_1" y="53.205096" x="45.309578" stroke-width="0" stroke="#000000" fill="#0000ff">OSC</text>
+  <path id="svg_14" d="m572.824951,424.14502l14.75,-14.75l0,7.375l22.125,0l0,-22.125l-7.375,0l14.75,-14.75l14.75,14.75l-7.375,0l0,36.875l-36.875,0l0,7.375l-14.75,-14.75z" stroke-width="5" fill="#000000"/>
+ </g>
+</svg>
